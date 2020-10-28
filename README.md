@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+안녕하세요, 김진희입니다.
+
+💻Front-End Developer
 <!--
 **jindobry/jindobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
