@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinhee-kim-156771150)](https://www.linkedin.com/in/jinhee-kim-156771150)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinheeee72@gmail.com)](mailto:jinheeee72@gmail.com)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindobry)](https://github.com/jindobry/github-readme-stats)  
+
   
   
 <!--
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jindobry)](https://github.com/jindobry/github-readme-stats)  
 -->
